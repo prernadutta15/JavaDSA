@@ -8,10 +8,10 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dsa</groupId>
-	<artifactId>coding</artifactId>
+	<groupId>com.practice</groupId>
+	<artifactId>dsa-java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dsa-java</name>
+	<name>dsa-practice</name>
 	<description>DSA question bank</description>
 	<properties>
 		<java.version>11</java.version>
